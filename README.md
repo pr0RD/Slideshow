@@ -2,7 +2,7 @@ pr0gramm.com Slideshow by RD
 
 Grüße ihr Kellerkinder
 
-Das hier ist eine Slideshow für unser pr0gramm. Ist schnell gecodet, daher garantiere ich keine Bugfreiheit ¯\_(ツ)_/¯
+Das hier ist eine Slideshow für unser pr0gramm. Ist schnell gecodet, daher garantiere ich keine Bugfreiheit 
 
 ![pr0](https://raw.githubusercontent.com/pr0RD/Slideshow/master/Vorschau.png)
 
@@ -12,7 +12,7 @@ Getestet unter Chrome, sollte aber in Firefox genauso gut funktionieren. Wenn Fe
 - Slideshow des neusten Bildes/Videos
 
 ###Bekannte Fehler/Unschönheiten:
-- Es ist nicht immer unbedingt das neuste Bild was gezeigt wird. Liegt daran, das ich als Quelle die statische pr0gramm-Seite nutze, und die scheinbar nicht immer aktuell ist :/
+- Es ist nicht immer unbedingt das neuste Bild was gezeigt wird. Liegt daran, das ich als Quelle die statische pr0gramm-Seite nutze, und die scheinbar nicht immer aktuell ist. Danke cha0s
 
 ###INSTALLATION
 
