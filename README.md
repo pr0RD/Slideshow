@@ -4,6 +4,8 @@ Grüße ihr Kellerkinder
 
 Das hier ist eine Slideshow für unser pr0gramm. Ist schnell gecodet, daher garantiere ich keine Bugfreiheit ¯\_(ツ)_/¯
 
+![pr0](https://raw.githubusercontent.com/pr0RD/Slideshow/master/Vorschau.png)
+
 Getestet unter Chrome, sollte aber in Firefox genauso gut funktionieren. Wenn Fehler auftreten, schreibt mir. Vielleicht behebe ich sie.
 
 ###Integrierte Feautures:
