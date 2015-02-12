@@ -4,7 +4,7 @@
 // @description Verbessert das pr0gramm mit einer Slideshow
 // @include     http://pr0gramm.com/*
 // @icon http://pr0gramm.com/media/pr0gramm-favicon.png
-// @version     1.0.0.0
+// @version     1.0.0.1
 // @grant       none
 // @require	http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js
 // @updateURL     https://github.com/pr0RD/Slideshow/raw/master/pr0gramm.com%20Slideshow%20by%20RD.user.js
