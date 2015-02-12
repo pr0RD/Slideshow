@@ -70,7 +70,7 @@ $(document).ready(function(){
                 url : "http://pr0gramm.com/static/top/",
                 success : function(result){
                     var doc = parseHTML(result);
-                    var element = doc.getElementsByTagName("a")[5];
+                    var element = doc.getElementsByTagName("a")[4];
                     var link = element.attributes.href.value;
                     var id = link.replace("/static/", "");
                     if(id != lastPicId){
