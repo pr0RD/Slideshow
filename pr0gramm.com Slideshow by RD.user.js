@@ -7,7 +7,7 @@
 // @version     1.0.0.0
 // @grant       none
 // @require	http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js
-// @updateURL     https://raw.githubusercontent.com/pr0RD/Slideshow/master/pr0gramm.com%20Slideshow%20by%20RD.user
+// @updateURL     https://github.com/pr0RD/Slideshow/raw/master/pr0gramm.com%20Slideshow%20by%20RD.user.js
 // ==/UserScript==
 
 $(document).ready(function(){
